@@ -63,10 +63,10 @@ https://www.tmk-group.ru
 https://www.eurosib.ru
 https://omk.ru
 https://www.sberbank.ru
-https://www.vtb.ru
-https://www.gazprombank.ru
-https://www.avito.ru
-https://er.ru
+https://www.vtb.ru/
+https://www.gazprombank.ru/
+https://www.avito.ru/
+https://er.ru/
 https://gov.ru
 https://shop-rt.com
 https://ria.ru
