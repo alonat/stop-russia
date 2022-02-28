@@ -1,5 +1,7 @@
 FROM alpine/bombardier:latest
 
+RUN apk add curl
+
 COPY . /app
 WORKDIR /app
 
